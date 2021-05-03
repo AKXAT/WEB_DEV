@@ -1,0 +1,36 @@
+
+body{
+  background: lightblue;
+}
+h1{
+  border: 2px solid black;
+}
+
+h3{
+  color: purple;
+}
+
+p{
+  background: lightpink;
+}
+
+#f1 {
+  background: transparent;
+}
+
+#l1 {
+  color: purple
+}
+
+#t1 {
+  border: 50px solid solid grey;
+}
+
+.exit {
+  background: green;
+  border: 4px solid yellow;
+}
+
+input{
+  border-color: red;
+}
