@@ -1,0 +1,26 @@
+h1{
+  color: blue;
+}
+
+li{
+  color: rgba(200, 90, 100,1);
+}
+
+p{
+  color: #00400;
+}
+
+body {
+  background: url(https://images.pexels.com/photos/5007442/pexels-photo-5007442.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
+
+div{
+  background: grey;
+  border-color: red;
+  border-width: medium;
+  border-style: outset;
+}
+
+p{
+  color: yellow;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Sign Up</title>
+  </head>
+  <body>
+    <h1>Here is a sign-up Page:</h1>
+    <h4>Please Note: Fields Marked with '*' are requried</h4>
+
+    <form  method="post">
+      <label for="fn">First Name* :</label>
+      <input id="fn" type="text" name="firstname" required >
+
+      <label for="ln">Last Name* :</label>
+      <input id="ln" type="text" name="lastname" required >
+    </form>
+    <h1></h1>
+    <form  action="Basics.html" method="post">
+      <label for="email">Email* :</label>
+      <input id="email" type="email" name="email" required>
+
+      <label for="pass">Password* :</label>
+      <input id="pass" type="password" name="password" required>
+    <h1></h1>
+
+      <h4>Are you above 18? :</h4>
+
+      <label for="above">Yes</label>
+      <input id="above"type="radio" name="age" >
+
+      <label for="below">No</label>
+      <input type="radio" name="age" >
+
+      <h4>Do you have a credit card or paypal?</h4>
+      <select name="Payment">
+        <option value="Credit Card">Credit Card</option>
+        <option value="PayPal">PayPal</option>
+        <option value="Other">Other</option>
+
+      </select>
+
+      <h1></h1>
+      <input type="submit" name="submit">
+    </form>
+
+  </body>
+</html>

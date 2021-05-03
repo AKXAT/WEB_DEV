@@ -1,0 +1,14 @@
+.firstdiv{
+  color: red;
+}
+.seconddiv{
+  color: blue;
+}
+
+#single{
+  color: pink;
+}
+
+h4 + ul{
+  border: 4px dotted purple
+}
