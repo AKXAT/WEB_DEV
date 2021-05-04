@@ -1,0 +1,31 @@
+
+form{
+  padding: 200px;
+  padding-top: 20px;
+}
+.form{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: -10px;
+  color: white;
+  padding: 20 px;
+  background: #242869;
+  text-align:center;
+  font-family: 'Lobster', cursive;
+}
+body{
+  background: #64ede2;
+}
+input{
+  width: 200px;
+  height: 30px;
+  border: 2px solid black;
+}
+
+#signup{
+  width: 150px;
+  height: 40px;
+  background: orange;
+  border: 2px solid black;
+  border-radius: 20px;
+}
