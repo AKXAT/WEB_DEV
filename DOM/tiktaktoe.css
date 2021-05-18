@@ -1,7 +1,22 @@
-table{
-  border: 2px solid black;
+table {
+  width: 400px;
+  height: 400px;
+  margin-top: 50px;
+  margin-left: 50px;
 }
 
-thead{
-  border: 2px solid black;
+#one,#four{
+  border-bottom: 2px solid black;
+}
+
+#two,#five,#three,#six{
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
+}
+
+#seven,#eight{
+  border-right: 2px solid black;
+}
+.myform, .jumbotron{
+  padding: 20px;
 }
