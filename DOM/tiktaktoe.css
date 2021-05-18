@@ -1,4 +1,5 @@
 td{
+
   text-align: center;
   font-size: 70px;
   border: 2px solid black !important;
@@ -6,7 +7,24 @@ td{
   width: 150px;
 }
 
+h1{
+  color: white;
+}
 
 .myform, .jumbotron{
-  padding: 20px;
+  padding: 15px;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+}
+
+#b{
+  margin-top: 2%;
+}
+
+table{
+  margin-top: 30px;
+}
+
+body{
+  background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/796f6887-592e-4593-9064-e4a294324685/d1mqqux-973abeb4-a40d-4a66-8838-a1ddedca6ebb.jpg/v1/fill/w_800,h_600,q_75,strp/paper_by_francy84_d1mqqux-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvNzk2ZjY4ODctNTkyZS00NTkzLTkwNjQtZTRhMjk0MzI0Njg1XC9kMW1xcXV4LTk3M2FiZWI0LWE0MGQtNGE2Ni04ODM4LWExZGRlZGNhNmViYi5qcGciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.NA-KUJOsIH16wTC17GtcU0EFYF7q1aCNqVNAUalRXHA);
 }
